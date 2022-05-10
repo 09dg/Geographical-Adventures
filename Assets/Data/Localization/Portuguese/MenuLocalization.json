@@ -78,7 +78,7 @@
         },
         {
             "id": "settingsMenu.audioAndLanguage.musicVolume",
-            "text": "Volum da Música"
+            "text": "Volume da Música"
         },
         {
             "id": "settingsMenu.audioAndLanguage.sfxVolume",
@@ -86,11 +86,11 @@
         },
         {
             "id": "settingsMenu.controls.resetButton",
-            "text": "Reset"
+            "text": "Resetar"
         },
         {
             "id": "settingsMenu.controls.playerControls",
-            "text": "Player Controls"
+            "text": "Controles do Jogador"
         },
         {
             "id": "settingsMenu.controls.turn",
@@ -98,11 +98,11 @@
         },
         {
             "id": "settingsMenu.controls.elevation",
-            "text": "Elevation"
+            "text": "Elevação"
         },
         {
             "id": "settingsMenu.controls.speed",
-            "text": "Speed"
+            "text": "Velocidade"
         },
         {
             "id": "settingsMenu.controls.boost",
@@ -110,27 +110,27 @@
         },
         {
             "id": "settingsMenu.controls.dropPackage",
-            "text": "Drop Package"
+            "text": "Entregar Pacote"
         },
         {
             "id": "settingsMenu.controls.cameraControls",
-            "text": "Camera Controls"
+            "text": "Controles de Câmera"
         },
         {
             "id": "settingsMenu.controls.forwardView",
-            "text": "Forward View"
+            "text": "Visão Frontal"
         },
         {
             "id": "settingsMenu.controls.behindView",
-            "text": "Behind View"
+            "text": "Visão Traseira"
         },
         {
             "id": "settingsMenu.controls.topView",
-            "text": "Top View"
+            "text": "Vista de Cima"
         },
         {
             "id": "settingsMenu.controls.extraControls",
-            "text": "Extra Controls"
+            "text": "Controles Extra"
         },
         {
             "id": "settingsMenu.controls.makeDayTime",
@@ -142,11 +142,11 @@
         },
         {
             "id": "settingsMenu.controls.uiControls",
-            "text": "UI Controls"
+            "text": "Controles UI"
         },
         {
             "id": "settingsMenu.controls.toggleMap",
-            "text": "Map"
+            "text": "Mapa"
         },
         {
             "id": "settingsMenu.controls.togglePause",
