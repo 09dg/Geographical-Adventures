@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c11dd3d25848ea45b8432cae9e718ce, type: 3}
   m_Name: _Portuguese
   m_EditorClassIdentifier: 
-  languageDisplayName: Portuguese
+  languageDisplayName: Português
   languageID: portuguese_br
   localizedStringGroups:
   - {fileID: 4900000, guid: a0ae71685c902974e8c959c57a2197ed, type: 3}
